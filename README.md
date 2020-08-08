@@ -1,6 +1,6 @@
 I converted codingphase's react-redux course to svelte for comparison. You can see his course [Here](https://github.com/codingphasedotcom/redux-easy-course)
 
-*Psst — looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
+*Psst  —  looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
 ---
 
